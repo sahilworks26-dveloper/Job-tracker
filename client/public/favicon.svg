@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Job Tracker">
+  <rect width="32" height="32" rx="8" fill="#7c3aed" />
+  <g transform="translate(4 4)">
+    <path
+      fill="#ffffff"
+      d="M12 2C9.5 2 7.5 3.5 6.5 5.5 4.5 5 3 6.8 3 9v11a2 2 0 002 2h14a2 2 0 002-2V9c0-2.2-1.5-4-3.5-4.5C16.5 3.5 14.5 2 12 2zm0 2c1.2 0 2.2.5 3 1.2V7H9V5.2C9.8 4.5 10.8 4 12 4zM5 9c0-.6.4-1 1-1h12c.6 0 1 .4 1 1v2H5V9zm0 4h14v7H5v-7z"
+    />
+  </g>
+</svg>
