@@ -13,6 +13,7 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
   'https://job-tracker-u9ba.onrender.com',
+  'https://job-tracker-opal-theta.vercel.app',
   ...(process.env.CORS_ORIGIN
     ? process.env.CORS_ORIGIN.split(',').map((origin) => origin.trim())
     : []),
